@@ -50,15 +50,15 @@
 
 ## Visualizations
 ![Survival by Gender](figure1_survival_by_sex.png)  
-<img width="1584" height="675" alt="изображение" src="https://github.com/user-attachments/assets/3cdce51e-b85d-450c-ac21-e29d41d0925d" />
+
 
 
 ![Survival by Class](figure2_survival_by_pclass.png)  
-<img width="1584" height="943" alt="изображение" src="https://github.com/user-attachments/assets/de2d89c1-6f5b-40b5-949e-3d342aac2f3f" />
+
 
 
 ![Age Distribution](figure3_age_distribution.png)  
-<img width="1583" height="674" alt="изображение" src="https://github.com/user-attachments/assets/21e65113-9ca7-4e59-928a-ed4401ff5db9" />
+
 
 
 ## Summary
